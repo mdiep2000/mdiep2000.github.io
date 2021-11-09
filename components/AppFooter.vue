@@ -1,8 +1,8 @@
 <template>
   <footer>
     <section class="callout">
-      <h2>"The surprising styles of Skyline Ivy are advanced for all seasons."</h2>
-      <p>Hansel Andersen</p>
+      <h2>"Buy Chibigreens. Be happy."</h2>
+      <p>Karan Rami</p>
     </section>
     <app-footer-links />
     <div class="sarahstuff">
