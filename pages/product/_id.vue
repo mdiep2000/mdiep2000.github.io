@@ -15,7 +15,6 @@
         ></star-rating>
         <h4 class="price">{{ product.price | dollar }}</h4>
         <p>{{ product.description }}</p>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto velit dolores repudiandae animi quidem, eveniet quod dolor facilis dicta eligendi ullam error. Assumenda in fugiat natus enim similique nam itaque.</p>
         <div class="product-options">
           <div class="quantity">
             <button class="update-num" @click="quantity > 0 ? quantity-- : quantity = 0">-</button>
@@ -29,32 +28,12 @@
             </select>
           </div>
         </div>
-        <p v-if="showSizeRequiredMessage" class="size-required-message">Please choose a size</p>
-        <p>
-          Available in additional colors:
-          <strong>
-            <span :style="`color: ${product.color}`">{{ product.color }}</span>
-          </strong>
-        </p>
         <p>
           <button class="button purchase" @click="cartAdd">Add to Cart</button>
         </p>
       </section>
     </section>
     <hr />
-    <div class="review">
-      <h2>Reviews</h2>
-      <!-- maybe an image of a person? -->
-      <star-rating
-        :rating="product.starrating"
-        active-color="#000"
-        :star-size="15"
-        :show-rating="false"
-        style="margin: 5px 0"
-      ></star-rating>
-      <p>{{ product.review }}</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum iusto placeat consequatur voluptas sit mollitia ratione autem, atque sequi odio laborum, recusandae quia distinctio voluptatibus sint, quae aliquid possimus exercitationem.</p>
-    </div>
     <app-featured-products />
   </div>
 </template>
@@ -153,6 +132,10 @@ select {
 
 .size-required-message {
   color: red;
+}
+
+.img img {
+  width: 100%;
 }
 
 @media screen and (max-width: 650px) {
