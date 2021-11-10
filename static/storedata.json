@@ -35,12 +35,57 @@
   {
     "id": "bfa86b1c-9ebf-4555-987f-7b8bf7d27be7",
     "color": "Puce",
-    "description": "Good for your health, grows in 1.5-2 weeks\n\nContains the following Nutrients:\n\nCalcium\n\nVitamin C\n\nFiber\n\nPotassium\n\nand many more things that are good for you.",
-    "type": "Male",
-    "name": "Radish Seeds",
+    "description": "Kale is the next big thing!\n\nContains the following Nutrients:\n\nVitamin A\n\nVitamin C\n\nCalcium\n\nPotassium\n\nand many more things that are good for you.",
+    "type": "Seeds",
+    "name": "Kale Seeds",
     "review": "deploy efficient mindshare",
     "starrating": 4,
     "price": 4.99,
     "img": "19.jpg"
+  }
+  ,
+  {
+    "id": "18d4cd08-134f-4df5-a19a-b782a59ae52b",
+    "color": "Orange",
+    "description": "Lighten up your meals with the zesty beets from Chibigreens!\n\nContains the following Nutrients:\n\nPotassium\n\nVitamin B6\n\nCalcium\n\nMagnesium\n\nand many more things that are good for you.",
+    "type": "Seeds",
+    "name": "Beet Seeds",
+    "review": "generate customized e-services",
+    "starrating": 4,
+    "price": 5.0,
+    "img": "8.jpg"
+  },
+  {
+    "id": "92f8048f-3ee2-4428-96b0-66fd54b6e98f",
+    "color": "Orange",
+    "description": "Good for health, grows in 2-3 weeks, tastes good.\n\nContains the following Nutrients:\n\nVitamin A\n\nVitamin C\n\nCalcium\n\nMagnesium\n\nand many more things that are good for you.",
+    "type": "Seeds",
+    "name": "Arugula Seeds",
+    "review": "e-enable viral web services",
+    "starrating": 3,
+    "price": 5.0,
+    "img": "9.jpg"
+  },
+  {
+    "id": "4cee7b59-30dd-4378-b1c0-e4ad055a6a19",
+    "color": "Aquamarine",
+    "description": "Good for health, grows in 1.5-2 weeks, tastes good.\n\nContains the following Nutrients:\n\nCalcium\n\nVitamin C\n\nFiber\n\nPotassium\n\nand many more things that are good for you.",
+    "type": "Seeds",
+    "name": "Daikon Seeds",
+    "review": "recontextualize B2B markets",
+    "starrating": 3,
+    "price": 5.0,
+    "img": "10.jpg"
+  },
+  {
+    "id": "f92c7d89-78e9-4616-8876-e0088c53483e",
+    "color": "Pink",
+    "description": "Good for health, grows in 1.5-2 weeks, tastes good.\n\nContains the following Nutrients:\n\nVitamin K\n\nVitamin A\n\nVitamin B-9\n\nManganese\n\nand many more things that are good for you.",
+    "type": "Seeds",
+    "name": "Cilantro Sprout Seeds",
+    "review": "architect collaborative initiatives",
+    "starrating": 3,
+    "price": 5.0,
+    "img": "11.jpg"
   }
 ]
