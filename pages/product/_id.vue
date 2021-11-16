@@ -136,6 +136,12 @@ select {
 
 .img img {
   width: 100%;
+  border-radius: 25%;
+  margin-top: 40px;
+}
+
+.product-info {
+  margin-left: 40px;
 }
 
 @media screen and (max-width: 650px) {

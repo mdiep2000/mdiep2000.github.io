@@ -2,20 +2,20 @@
   <div class="textlockup">
     <div class="img">
       <slot name="img">
-        <img src="/shoe1.jpg" alt="shoe" />
+        <img src="/micro_pea.jpg" alt="shoe" />
       </slot>
     </div>
     <div class="new">
       <slot name="new">New</slot>
     </div>
     <div class="sale">
-      <slot name="sale">Men Shoes</slot>
+      <slot name="sale">Microgreen</slot>
     </div>
     <div class="collection">
-      <slot name="collection">Collection</slot>
+      <slot name="collection">Kit Subscriptions</slot>
     </div>
     <div class="details">
-      <slot name="details">Street Style New Fashion</slot>
+      <slot name="details">Delivered Weekly</slot>
     </div>
   </div>
 </template>

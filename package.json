@@ -1,8 +1,8 @@
 {
-  "name": "ecommerce-netlify",
+  "name": "Chibigreens",
   "version": "1.0.0",
   "description": "A serverless function to process stripe payments with Nuxt, Netlify, and Lambda",
-  "author": "sdras",
+  "author": "DSO-562 Team",
   "private": true,
   "scripts": {
     "dev": "nuxt",

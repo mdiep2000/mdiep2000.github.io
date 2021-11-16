@@ -39,10 +39,13 @@ section {
     box-shadow: 0 3px 10px 0px #eee;
     border-radius: 40px;
     padding: 10px 20px 30px;
-    min-height: 150px;
+    min-height: 382px;
     justify-self: center;
     align-self: center;
     text-align: center;
+    .img {
+      height: 225px;
+    }
   }
 }
 
@@ -105,7 +108,9 @@ h2 span:after {
   }
 
   img {
-    width: 100%;
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
   }
 }
 </style>

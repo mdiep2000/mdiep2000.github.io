@@ -10,13 +10,13 @@
           <nuxt-link to="/all">All</nuxt-link>
         </li>
         <li>
-          <nuxt-link to="/women">Kits</nuxt-link>
+          <nuxt-link to="/kits">Kits</nuxt-link>
         </li>
         <li>
-          <nuxt-link to="/men">Seeds</nuxt-link>
+          <nuxt-link to="/seeds">Seeds</nuxt-link>
         </li>
         <li>
-          <nuxt-link to="/men">Subscriptions</nuxt-link>
+          <nuxt-link to="/seeds">Subscriptions</nuxt-link>
         </li>
         <li>
           <div class="carttotal" v-if="cartCount > 0">{{ cartCount }}</div>
