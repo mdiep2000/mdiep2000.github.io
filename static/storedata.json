@@ -24,11 +24,7 @@
   {
     "id": "440e2eac-67ed-4407-993a-d9f6b7f15087",
     "color": "Teal",
-<<<<<<< HEAD
-    "description": "Good for you, tastes good*, buy it. Grows in 1.5-2 weeks\n\nContains the following Nutrients:\n\nVitamin K\n\nVitamin A\n\nVitamin B-9\n\nManganese\n\nand many more things that are good for you.",
-=======
     "description": "Good for you, taste good*, buy it. Grows in 1.5-2 weeks\n\nContains the following Nutrients:\n\nVitamin K\n\nVitamin A\n\nVitamin B-9\n\nManganese\n\nand many more things that are good for you.",
->>>>>>> 39850c411678514c69dcf6e809117e24ce81735f
     "type": "Kit",
     "name": "Cilantro Kit",
     "review": "productize virtual markets",
@@ -46,12 +42,7 @@
     "starrating": 4,
     "price": 4.99,
     "img": "19.jpg"
-  }
-<<<<<<< HEAD
-,
-=======
-  ,
->>>>>>> 39850c411678514c69dcf6e809117e24ce81735f
+  },
   {
     "id": "18d4cd08-134f-4df5-a19a-b782a59ae52b",
     "color": "Orange",
