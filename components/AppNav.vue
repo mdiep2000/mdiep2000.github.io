@@ -1,6 +1,8 @@
 <template>
   <header>
-    <h1>Chibigreens</h1>
+    <h1 style="margin-top: 0;">
+      Chibigreens <img src="/sprout2.jpeg" style="width: 64px; height: 64px;" />
+    </h1>
     <nav>
       <ul>
         <li>
